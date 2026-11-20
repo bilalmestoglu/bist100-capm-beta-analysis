@@ -1,0 +1,7 @@
+-libraries-
+
+yfinance
+pandas
+numpy
+statsmodels
+matplotlib
